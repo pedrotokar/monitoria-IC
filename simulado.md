@@ -177,13 +177,13 @@ Qual será a saída dessa função, se alimentada com k = 5 e com a lista [1, 4,
 
 ## Questão 7
 
-Qual das alternativas melhor descreve a lingugagem de programção Python?
+Qual das alternativas melhor descreve a linguagem de programção Python?
 
-**a)** Python é uma lingugagem interpretada, de paradigma procedural, dinamicamente tipada, e todos os tipos são objetos;
+**a)** Python é uma linguagem interpretada, de paradigma procedural, dinamicamente tipada, e todos os tipos são objetos;
 
-**b)** Python é uma lingugagem compilada, com paradigma imperativo, fracamente e dinamicamente tipada;
+**b)** Python é uma linguagem compilada, com paradigma imperativo, fracamente e dinamicamente tipada;
 
-**c)** Python tem tipagem estática, é uma lingugagem compilada e de paradigma funcional, que não aceita programação voltada a objetos;
+**c)** Python tem tipagem estática, é uma linguagem compilada e de paradigma funcional, que não aceita programação voltada a objetos;
 
 **d)** Python tem tipagem dinamica e fraca, é uma lingugaem compilada e tem suporte a programação voltada a objetos;
 
