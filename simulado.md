@@ -56,7 +56,7 @@ Faça, do jeito que preferir, com que o dicionário fornecido seja invertido (se
 Agora, você quer ter uma forma de saber qual o algarismo presente em determinada casa decimal de um número. 
 
 **Item c)**
-Faça um código que, dado um número e qual casa decimal se quer ver o algarismo, retorne ele como inteiro (exemplo: dado o número 3247 e a casa decimal 100, retorna 4 (a casa das centenas)). Obs: você deve fazer isso usando apenas operações básicas do python (soma, subtração, multiplicação, divisão, divisão inteira e divisão modular).
+Faça um código que, dado um número e qual casa decimal se quer ver o algarismo, retorne ele como inteiro (exemplo: dado o número 3427 e a casa decimal 100, retorna 4 (a casa das centenas)). Obs: você deve fazer isso usando apenas operações básicas do python (soma, subtração, multiplicação, divisão, divisão inteira e divisão modular).
 
 Com essas ferramentas em mãos, esta na hora de fazer a função desejada. 
 
