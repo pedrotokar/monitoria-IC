@@ -147,7 +147,7 @@ Se quiser se desafiar, faça a função `gera_funcao_polinomial` receber um dici
 
 ## Questão 5
 
-João trabalha com problemas muito difíceis de álgebra linear e precisa programar um gerador de matrizes de três eixos. Esse gerador deve ter um parâmetro n, representando o tamanho da primeira dimensão, e deve gerar uma matriz $n \cross \floor{\frac{n}{2}} \cross 3n$, sendo que um elemento $i,j,k$ deve ser igual à $i^{j - k} + 3$. Ele programou da seguinte forma:
+João trabalha com problemas muito difíceis de álgebra linear e precisa programar um gerador de matrizes de três eixos. Esse gerador deve ter um parâmetro n, representando o tamanho da primeira dimensão, e deve gerar uma matriz $n \times \lfloor \frac{n}{2} \rfloor \times 3n$, sendo que um elemento $i,j,k$ deve ser igual à $i^{j - k} + 3$. Ele programou da seguinte forma:
 
 ```python
 def gera_matriz(n):
