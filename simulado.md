@@ -160,8 +160,11 @@ Corrija o código para funcionar como deveria.
 ## Questão 6
 
 Imagine que exista uma função python que recebe um número k e uma lista, e itera k vezes, realizando as seguintes instruções em cada uma das vezes:
+    
     1 - multiplica cada elemento com índice ímpar da lista por (número da iteração + 2, numero da iteração começa em 0);
+    
     2 - subtrai de cada elemento com índice par da lista o elemento de indíce ímpar que vem antes dele;
+    
     3 - para cada par de elementos da lista (começando com o par de elementos de índices 0 e 1, depois partindo para os de índice 1 e 2, etc), os modifica, fazendo o primeiro ser a soma dos dois e o segundo ser o módulo da diferença.
 Qual será a saída dessa função, se alimentada com k = 5 e com a lista [1, 4, 2, 9, 4, 6, 8]?
 
