@@ -104,7 +104,7 @@ def gera_funcao_polinomial(lista_coeficientes):
 ## Questão 5
 ```python
 def gera_matriz(n):
-    matriz_3_eixos = [[[(i**(j - k)) + 3 for k in range(n * 3)] for j in range(n//2)] for i in range(n)]
+    matriz_3_eixos = [[[(i**( j - k)) + 3 for k in range(n * 3)] for j in range(n//2)] for i in range(n)]
     return matriz_3_eixos
 ```
 
@@ -116,7 +116,7 @@ Implementação:
 def bagunca_lista(k, lista):
     for i in range(k):
         for j in range(0, len(lista), 2):
-            lista[j] *= (i + 1)
+            lista[j] *= (i + 2)
         for j in range(1, len(lista), 2):
             lista[j] -= lista[j - 1]
         for j in range(1, len(lista)):
